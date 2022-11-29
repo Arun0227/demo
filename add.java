@@ -1,4 +1,4 @@
-int x = 7;
+int x = 14;
 int y = 6;
 int sum = x + y;
 System.out.println(sum);
