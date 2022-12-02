@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class add {//avg and sum
+/*public class add {//avg and sum
 	public static void main(String[] args){
 		System.out.println("enter the limit");
 		Scanner in=new Scanner(System.in);
@@ -15,20 +15,18 @@ public class add {//avg and sum
 		System.out.println("avg of"+sum/n);
 	}
 }
-}
-
+}*/
 //temp file add java 8
-public class JavaHungry {
+/*public class JavaHungry {
     public static void main(String args[]) {
             List<Integer> myList = Arrays.asList(10,15,8,49,25,98,32);
             myList.stream()
                   .filter(n -> n%2 == 0)
                   .forEach(System.out::println);
     }
-}
+}*/
 
 //new program
-import java.util.*;
 import java.util.stream.*;
 import java.util.function.Function;
 
